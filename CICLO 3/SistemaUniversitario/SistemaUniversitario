@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T00:49:21.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" version="18.1.1" etag="w2VsKcIYfkHXUOZ1REFO" type="github"><diagram id="jJvKFr4lWtBK9fN-Jp1r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:01:44.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="jkUFqSBt6xPd05plY9-n" version="18.1.1" type="github">
+  <diagram id="jJvKFr4lWtBK9fN-Jp1r" name="Page-1">
+    <mxGraphModel dx="1278" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-1" value="Karen Brigith Gonzaga Rivas" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="X5fyWXs50f-eoXJCLlMz-2" target="X5fyWXs50f-eoXJCLlMz-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-2" value="Empleado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="55" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-3" value="Sistema Universitario" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=25;" vertex="1" parent="1">
+          <mxGeometry x="180" y="55" width="180" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X5fyWXs50f-eoXJCLlMz-4" target="X5fyWXs50f-eoXJCLlMz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-4" value="Decano" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-5" value="Administrativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="X5fyWXs50f-eoXJCLlMz-6" target="X5fyWXs50f-eoXJCLlMz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5fyWXs50f-eoXJCLlMz-6" target="X5fyWXs50f-eoXJCLlMz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-6" value="Investigador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-7" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X5fyWXs50f-eoXJCLlMz-4">
+          <mxGeometry x="0.25" y="50" width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="230" as="sourcePoint" />
+            <mxPoint x="70" y="150" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-8" value="Participar en proyectos" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-12" value="Dar &lt;br&gt;conferencias" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="232" y="290" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-15" value="Dirigir una&lt;br&gt;&amp;nbsp;facultad" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-17" value="Tener &lt;br&gt;numero social" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X5fyWXs50f-eoXJCLlMz-19" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X5fyWXs50f-eoXJCLlMz-5">
+          <mxGeometry x="0.25" y="50" width="160" relative="1" as="geometry">
+            <mxPoint x="115" y="200" as="sourcePoint" />
+            <mxPoint x="60" y="140" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
