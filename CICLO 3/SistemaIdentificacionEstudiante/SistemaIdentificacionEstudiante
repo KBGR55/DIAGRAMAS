@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T23:00:02.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" version="18.1.1" etag="incoq1eAI2Uf4sLgiFnu" type="github"><diagram id="7XZ71-EVwBoV8aifAc7R">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T00:10:51.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="r6X2tScwRo-OJAt65qY6" version="18.1.1" type="github">
+  <diagram id="7XZ71-EVwBoV8aifAc7R" name="Page-1">
+    <mxGraphModel dx="852" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s8NpZFNXU48KPXKun12H-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8NpZFNXU48KPXKun12H-1" target="s8NpZFNXU48KPXKun12H-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8NpZFNXU48KPXKun12H-1" target="s8NpZFNXU48KPXKun12H-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-1" value="Estudiante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8NpZFNXU48KPXKun12H-2" target="s8NpZFNXU48KPXKun12H-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8NpZFNXU48KPXKun12H-2" target="s8NpZFNXU48KPXKun12H-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-2" value="Empleado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-3" value="Karen Brigith Gonzaga Rivas" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-4" value="Sistema Identificación Estudiante" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="330" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-26" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="s8NpZFNXU48KPXKun12H-6" target="s8NpZFNXU48KPXKun12H-25">
+          <mxGeometry x="-0.0909" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-6" value="Llenar formulario." style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-8" value="Solicitar identificación." style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-20" value="Verificar Documentos" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-23" value="Entregar Formularios" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s8NpZFNXU48KPXKun12H-25" value="Enviar Documentos" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
