@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T00:10:51.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="r6X2tScwRo-OJAt65qY6" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T00:12:15.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="mAGniq-5-HFbaJvv7xTs" version="18.1.1" type="github">
   <diagram id="7XZ71-EVwBoV8aifAc7R" name="Page-1">
     <mxGraphModel dx="852" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="20" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s8NpZFNXU48KPXKun12H-3" value="Karen Brigith Gonzaga Rivas" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="380" height="40" as="geometry" />
+          <mxGeometry x="10" y="10" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s8NpZFNXU48KPXKun12H-4" value="Sistema Identificación Estudiante" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;" vertex="1" parent="1">
           <mxGeometry x="80" y="60" width="330" height="280" as="geometry" />
