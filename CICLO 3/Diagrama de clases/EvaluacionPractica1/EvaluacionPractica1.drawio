@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T15:13:00.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="_WWWiK7WpE9CbpCuEVvx" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T15:13:54.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="hF5rnVmfGGubmQZ3CNRx" version="19.0.2" type="github">
   <diagram id="qSO_u3S2v88sH-et3-5x" name="Page-1">
     <mxGraphModel dx="1504" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
           <mxGeometry x="560" y="1060" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a8ocinU2t4pZGtcug-5M-98" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Usuario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ iniciarSesion( ): Void&lt;br&gt;+ seleccionarProductos() : Void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ verDetalleFactura ( ): Void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ pagarCompra ( ): Void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="540" width="270" height="130" as="geometry" />
+          <mxGeometry x="10" y="570" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a8ocinU2t4pZGtcug-5M-100" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Sistema&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ main(): Void&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+agregarUsuario(usuari): void&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="715" width="220" height="110" as="geometry" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a8ocinU2t4pZGtcug-5M-112" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AtencionCliente&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ informarCupon( ): Void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="715" width="180" height="95" as="geometry" />
+          <mxGeometry x="10" y="715" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="a8ocinU2t4pZGtcug-5M-113" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PersonalVenta&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ revisarFactura( ): Void&lt;br&gt;+ generarCupon( ): Void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="830" width="150" height="100" as="geometry" />
